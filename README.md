@@ -1,8 +1,3 @@
-<div align="center">
-
-[![Python/JS](https://img.shields.io/badge/Lógica-Programação-blue.svg)]()
-
-</div>
 
 # 🗺️ Aventura Alura
 
